@@ -38,7 +38,7 @@
 
 <li><b><a target="_blank" href="https://github.com/manjunath5496/Rocket-Science-Books/blob/master/roc(22).pdf" style="text-decoration:none;">Rocket Science for the Rest of Us: Cutting-Edge Concepts Made Simple</a></b></li>  
 
- <li><b><a target="_blank" href="https://github.com/manjunath5496/Rocket-Science-Books/blob/master/roc(23).pdf" style="text-decoration:none;">The End of Eternity</a></b></li>  
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/Rocket-Science-Books/blob/master/roc(23).pdf" style="text-decoration:none;">Gas Turbines and Jet Rocket Propulsion</a></b></li>  
 
 
 
